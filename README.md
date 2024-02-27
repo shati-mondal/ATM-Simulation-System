@@ -3,8 +3,8 @@ This is a simple ATM (Automated Teller Machine) simulation system implemented in
 
 # Features
 <h3>Account Management:</h3> Allows users to create new accounts, delete existing accounts, and update account information.
-Balance Inquiry: Users can check their account balance.
-Deposit: Users can deposit funds into their accounts.
-Withdrawal: Users can withdraw funds from their accounts.
-Transfer: Users can transfer funds between their accounts.
-Security: Implements basic security measures like PIN verification.
+<h3>Balance Inquiry:</h3> Users can check their account balance.
+<h3>Deposit:</h3> Users can deposit funds into their accounts.
+<h3>Withdrawal:</h3> Users can withdraw funds from their accounts.
+<h3>Transfer:</h3> Users can transfer funds between their accounts.
+<h3>Security:</h3> Implements basic security measures like PIN verification.
